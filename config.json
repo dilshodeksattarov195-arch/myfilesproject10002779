@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcync",
+        "uuid": 16774044,
+        "checksum": "64l7hh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
